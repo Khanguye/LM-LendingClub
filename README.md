@@ -16,6 +16,10 @@ The goals:
 
 The Accuracy and Recall (sensitivity) rate are two important factor to select the righ model for the imbalanced dataset while the good data is overwhelming the bad data in the dataset.
 
+## Jupyter Notebooks
+
+1. [credit_risk_resampling.ipynb](Notebooks/credit_risk_resampling.ipynb)
+2. [credit_risk_ensemble.ipynb](Notebooks/credit_risk_ensemble.ipynb)
 
 ## Naive Random Oversampling
 
