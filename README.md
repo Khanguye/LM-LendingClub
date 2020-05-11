@@ -14,7 +14,7 @@ The goals:
 2. Use resampling to attempt to address class imbalance.
 3. Evaluate the performance of machine learning models. 
 
-The Accuracy and Recall (sensitivity) rate are two important factor to select the righ model for the imbalanced dataset while the good data is overwhelming the bad data in the dataset.
+The Accuracy and Recall (sensitivity) rate are two important factors to select the righ model for the imbalanced dataset while the good data is overwhelming the bad data in the dataset.
 
 ## Jupyter Notebooks
 
